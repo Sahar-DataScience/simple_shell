@@ -1,2 +1,2 @@
-# simple_shell
- a second group project at ALX SE 
+#simple-shell
+a second group project at ALX SE
